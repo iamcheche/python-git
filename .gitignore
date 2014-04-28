@@ -1,4 +1,3 @@
 *.pyc
 db.sqlite
-virtualenv.py
 flask
