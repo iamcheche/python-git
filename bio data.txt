@@ -2,4 +2,7 @@ Name: Ivan Christmer Zubieta
 Age: 19
 Birthdate: July 16, 1994
 Quote: This quote has been purposely altered.
+<<<<<<< HEAD
 
+=======
+>>>>>>> 07e745c1d90f8399bcbdbed1bf033ddd9fd8f453
