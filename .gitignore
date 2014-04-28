@@ -1,2 +1,4 @@
-.pyc
-v
+*.pyc
+db.sqlite
+virtualenv.py
+flask
