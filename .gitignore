@@ -1,6 +1,11 @@
 *.pyc
 db.sqlite
+<<<<<<< Updated upstream
 virtualenv.py
 flask
 
 
+=======
+flask
+virtualenv.py
+>>>>>>> Stashed changes
