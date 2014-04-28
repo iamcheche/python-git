@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 *.pyc
+=======
+*.pyc
+db.sqlite
+virtualenv.py
+flask
+>>>>>>> e3a940237ed55e91d8942214c5fcfbeec150205c
