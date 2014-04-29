@@ -10,7 +10,14 @@ Name: Patricia Matignas
 Age: 20
 Birthdate: March 27, 1994
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Si Ana ay tambay sa 14th floor
 \nSi Ana ay tambay sa 14th floor
 =======
+>>>>>>> Stashed changes
+=======
+
+Name: Ana Rose Trajano
+Age: 19
+Birthdate: February 16, 1995
 >>>>>>> Stashed changes
