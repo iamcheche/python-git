@@ -1,4 +1,6 @@
-Name: Ekla
+Name: Ana Rose Trajano
+Age: 19
+Birthdate: February 16, 1995
 
 Name: Ivan Christmer Zubieta
 Age: 19
@@ -11,9 +13,3 @@ s
 Name: Patricia Matignas
 Age: 20
 Birthdate: March 27, 1994
-<<<<<<< HEAD
->>>>>>> 30555ab3794b0269c2c983d174f521229fff8094
-=======
-Si Ana ay tambay sa 14th floor
-\nSi Ana ay tambay sa 14th floor
->>>>>>> d5f3cde043d8b9696465903c8afb7764d3c42d5f
