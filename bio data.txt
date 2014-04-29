@@ -1,8 +1,12 @@
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 Name: Ana Rose Trajano
+=======
+Name: Ana Trajano
+>>>>>>> Stashed changes
 =======
 Name: Ana Trajano
 >>>>>>> Stashed changes
