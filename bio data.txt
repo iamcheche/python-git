@@ -1,7 +1,6 @@
 Name: Ivan Christmer Zubieta
 Age: 19
 Birthdate: July 16, 1994
->>>>>>> 34ed30ab70e6cebf7bc51503f88536e0e558c9c2
 
 Name: Gelo Cantara
 Age: 18
