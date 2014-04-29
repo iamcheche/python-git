@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< HEAD
@@ -20,3 +21,16 @@ Birthdate: July 16, 1995
 >>>>>>> Stashed changes
 jhhjgg
 >>>>>>> c95d245ecb1210e56193e9fa5d50a1dd5817e1d9
+=======
+Name: Ivan Christmer Zubieta
+Age: 19
+Birthdate: July 16, 1994
+
+Name: Gelo Cantara
+Age: 18
+Birthdate: August 5, 1995
+
+Name: Patricia Matignas
+Age: 20
+Birthdate: March 27, 1994
+>>>>>>> 30555ab3794b0269c2c983d174f521229fff8094

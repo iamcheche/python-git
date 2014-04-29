@@ -5,4 +5,7 @@
 db.sqlite
 virtualenv.py
 flask
+<<<<<<< HEAD
 >>>>>>> 69dbb0ec40da1fed998f0ceb394a17ff452f9f07
+=======
+>>>>>>> 30555ab3794b0269c2c983d174f521229fff8094
