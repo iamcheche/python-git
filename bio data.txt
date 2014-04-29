@@ -9,6 +9,7 @@ Birthdate: August 5, 1995
 Name: Patricia Matignas
 Age: 20
 Birthdate: March 27, 1994
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 Name: Gelo Cantara
@@ -32,3 +33,5 @@ Birthdate: February 16, 1995
 >>>>>>> Stashed changes
 =======
 >>>>>>> 34b5684157f68180b07f93a83bc23915fede2362
+=======
+>>>>>>> 93088ccdea32468e8f2aff8b38e50ad93e8488d4
