@@ -1,20 +1,3 @@
-<<<<<<< HEAD
-Name: Ana Rose Trajano
-Age: 19
-Birthdate: February 16, 1995
-
-Name: Ivan Christmer Zubieta
-Age: 19
-Birthdate: July 16, 1994
-
-Name: Gelo Cantara
-Age: 18
-Birthdate: August 5, 1995
-
-Name: Patricia Matignas
-Age: 20
-Birthdate: March 27, 1994
-=======
 Name: Ivan Christmer Zubieta
 Age: 19
 Birthdate: July 16, 1994
