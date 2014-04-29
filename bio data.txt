@@ -1,31 +1,7 @@
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-Name: Ana Rose Trajano
-=======
-Name: Ana Trajano
->>>>>>> Stashed changes
-=======
-Name: Ana Trajano
->>>>>>> Stashed changes
-=======
-Name: Ana Trajano
->>>>>>> Stashed changes
+Name: Ana Rose Trajano Cute
 Age: 19
-Birthdate: February 16, 1995
-=======
-Name: Deanne Vanessa Lois Soriano
-Age: 20
-<<<<<<< Updated upstream
-Birthdate: July 17, 1994
-=======
-Birthdate: July 16, 1995
->>>>>>> Stashed changes
-jhhjgg
->>>>>>> c95d245ecb1210e56193e9fa5d50a1dd5817e1d9
-=======
+Birthdate: Feb 16, 1995
+
 Name: Ivan Christmer Zubieta
 Age: 19
 Birthdate: July 16, 1994
@@ -33,7 +9,7 @@ Birthdate: July 16, 1994
 Name: Gelo Cantara
 Age: 18
 Birthdate: August 5, 1995
-
+s
 Name: Patricia Matignas
 Age: 20
 Birthdate: March 27, 1994
