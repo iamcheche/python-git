@@ -1,3 +1,14 @@
+<<<<<<< Updated upstream
+<<<<<<< HEAD
 Name: Ana Rose Trajano
+=======
+Name: Ana Trajano
+>>>>>>> Stashed changes
 Age: 19
 Birthdate: February 16, 1995
+=======
+Name: Deanne Vanessa Lois Soriano
+Age: 20
+Birthdate: July 16, 1994
+jhhjgg
+>>>>>>> c95d245ecb1210e56193e9fa5d50a1dd5817e1d9
